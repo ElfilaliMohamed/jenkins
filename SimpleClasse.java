@@ -9,5 +9,6 @@ public class SimpleClasse {
         int b = 1;
 
         System.out.println("la somme est "+sc.somme(a,b));
+        System.out.println("un petit changement");
     }
 }
